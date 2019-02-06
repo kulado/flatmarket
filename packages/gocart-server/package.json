@@ -1,0 +1,18 @@
+{
+  "name": "gocart-server",
+  "description": "A standalone web server for GOCart.",
+  "version": "1.0.0",
+  "engines": {
+    "node": "11.8",
+    "npm": "6.5"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/kulado/gocart/tree/master/packages/gocart-server",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "hapi": "^8.8.0",
+    "hapi-gocart": "^1.0.0",
+    "joi": "^6.5.0"
+  }
+}
