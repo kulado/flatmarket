@@ -1,0 +1,21 @@
+{
+  "name": "gocart-client",
+  "description": "A browser client for GOCart.",
+  "version": "1.0.0",
+  "engines": {
+    "node": "11.8",
+    "npm": "6.5"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/kulado/gocart/tree/master/packages/gocart-client",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^2.9.30",
+    "boom": "^2.8.0",
+    "gocart-validation": "^1.0.0",
+    "joi": "^6.6.0",
+    "lodash": "^3.10.0",
+    "reqwest": "^2.0.1",
+    "xhr2": "^0.1.3"
+  }
+}
