@@ -1,0 +1,15 @@
+{
+  "name": "gocart-validation",
+  "description": "Validations for GOCart.",
+  "version": "1.0.0",
+  "engines": {
+    "node": "11.8",
+    "npm": "6.5"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/kulado/gocart/tree/master/packages/gocart-validation",
+  "main": "index.js",
+  "dependencies": {
+    "joi": "^6.5.0"
+  }
+}
